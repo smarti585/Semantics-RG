@@ -1,0 +1,8 @@
+---
+title: Materials 
+---
+### Main book
+We will be reading Heim & Kratzer (1998) _Semantics in Generative Grammar_ 
+* [You can download the book, if you don't have it](files/H_K.pdf)
+
+### Other references
