@@ -1,5 +1,0 @@
----
-title: "Exercises"
----
-### October 13th
-This is where we will upload the solutions to the exercises, after each reading group session.
