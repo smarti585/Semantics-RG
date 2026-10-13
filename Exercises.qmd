@@ -1,4 +1,5 @@
 ---
-title: Exercises 
+title: "Exercises"
 ---
+
 Here are the exercises we will be working on throughout the meetings.
