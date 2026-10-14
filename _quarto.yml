@@ -13,8 +13,6 @@ website:
         text: Meetings
       - href: materials.qmd
         text: Materials & Book
-      - href: exercises.qmd
-        text: Exercises
 
 
 format:
