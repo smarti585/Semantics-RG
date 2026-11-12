@@ -6,8 +6,10 @@ We will be reading Heim & Kratzer (1998) _Semantics in Generative Grammar_
 * [You can download the book, if you don't have it](files/H_K.pdf)
 
 ### More
- [This is a small handout of the first chapter](files/chapter_1.pdf)
+ [This is a (uncomplete) handout of the first chapter](files/chapter_1.pdf)
  
 ### Exercises
 
 Solutions to the exercises will be uploaded here as we work through the book.
+
+ [Chapter 2](files/RGS_chapter2.pdf)
